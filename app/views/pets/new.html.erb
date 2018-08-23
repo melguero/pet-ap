@@ -1,0 +1,41 @@
+<h1>Novo Pet encontrado</h1>
+
+<%= form_with scope: :pet, url: pets_path, local: true do |form| %>
+  <% if @pet.errors.any? %>
+    <div id="error_explanation">
+      <h2>
+        <%= pluralize(@pet.errors.count, "error") %> prohibited
+        this pet from being saved:
+      </h2>
+      <ul>
+        <% @pet.errors.full_messages.each do |msg| %>
+          <li><%= msg %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+  <p>
+    <%= form.label :tutor %><br>
+    <%= form.text_field :tutor %>
+  </p>
+  <p>
+    <%= form.label :phone %><br>
+    <%= form.text_field :phone %>
+  </p>
+  <p>
+    <%= form.label :breed %><br>
+    <%= form.text_field :breed %>
+  </p>
+  <p>
+    <%= form.label :size %><br>
+    <%= form.text_field :size %>
+  </p>
+   <p>
+    <%= form.label :description %><br>
+    <%= form.text_area :description %>
+  </p>
+  <p>
+    <%= form.submit %>
+  </p>
+<% end %>
+<%= link_to 'Back', pets_path %>
