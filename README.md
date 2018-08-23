@@ -24,3 +24,8 @@ ____________________________
 ### Reportando algum problema ou sugerindo alguma mudança
 
 * Abra uma issue, descrevendo o problema ou sua sugestão.
+
+
+---
+
+* [README padrão](readme_settings.md)
