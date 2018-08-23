@@ -1,24 +1,26 @@
-# README
+# Pet-AP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projeto iniciado no Rails Girls SP 2018 - Time Capitã Marvel
 
-Things you may want to cover:
+Que tal continuarmos aprendendo e finalizar essa ideia, meninas?!? Sim?
 
-* Ruby version
+Então, mãos à obra!!! =D
 
-* System dependencies
+#VamosJuntas
 
-* Configuration
+____________________________
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
+### Submetendo uma alteração
 
-* Services (job queues, cache servers, search engines, etc.)
+* Faça um fork
+* Crie sua nova branch (git checkout -b minha-mudanca)
+* Commit suas mudanças (git commit -am 'Adiciona alguma coisa')
+* Faça um push para a branch (git push origin minha-mudanca)
+* Crie um pull request
 
-* Deployment instructions
 
-* ...
+### Reportando algum problema ou sugerindo alguma mudança
+
+* Abra uma issue, descrevendo o problema ou sua sugestão.
