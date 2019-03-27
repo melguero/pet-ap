@@ -1,6 +1,6 @@
 # Pet-AP
 
-Projeto iniciado no Rails Girls SP 2018 - Time Capitã Marvel
+Projeto iniciado no Rails Girls SP 2018 - Time Capitã Marvel, portanto, contribuições de mulheres serão priorizadas. 
 
 Que tal continuarmos aprendendo e finalizar essa ideia, meninas?!? Sim?
 
@@ -8,8 +8,9 @@ Então, mãos à obra!!! =D
 
 #VamosJuntas
 
-____________________________
 
+
+____________________________
 
 
 ### Submetendo uma alteração
