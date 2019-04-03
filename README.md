@@ -25,8 +25,7 @@ ____________________________
 
 ### Reportando algum problema ou sugerindo alguma mudança
 
-* Abra uma [issue](https://github.com/melguero/pet-ap/issues/new), descrevendo o problema ou sua sugestão.
-
+* Abra uma [issue](https://github.com/cmatiello/pet-ap/issues) descrevendo o problema ou sua sugestão.
 
 ---
 
